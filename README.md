@@ -1,4 +1,4 @@
-# Coffeeword
+# Coffeeword [under development - not production ready yet]
 Short description and motivation.
 
 ## Usage
