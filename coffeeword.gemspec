@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Coffeeword::VERSION
   s.authors     = ["psagan"]
   s.email       = ["patryk.sagan@icloud.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Coffeeword."
-  s.description = "TODO: Description of Coffeeword."
+  s.homepage    = "https://github.com/psagan/coffeeword"
+  s.summary     = "Rails 5 engine for content publication"
+  s.description = "Content publication platform"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
